@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vithalreddy/nodeJS-socketIO-chat.git"
+    "url": ""
   },
   "keywords": [
     "nodejs",
@@ -22,9 +22,9 @@
   "author": "VithalReddy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vithalreddy/nodeJS-socketIO-chat/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/vithalreddy/nodeJS-socketIO-chat#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.17.2",
     "connect-mongo": "^3.0.0",
